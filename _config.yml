@@ -1,7 +1,7 @@
-name: "Fraser Lab"
-description: "This is the official web page for the James Fraser Lab at UCSF."
+name: "Depledge Lab"
+description: "This is the official web page for the Daniel Depledge Lab at the Hannover Medical School (MHH)."
 
-url: "http://fraserlab.com"
+url: "https://depledgelab.github.io"
 
 paginate: 5
 plugins: [jekyll-paginate]
