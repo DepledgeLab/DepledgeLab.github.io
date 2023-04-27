@@ -1,5 +1,5 @@
 ---
-name: Daniel, Depledge, Ph.D.
+name: Daniel Depledge, Ph.D.
 startdate: [01.06.2021]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
@@ -33,3 +33,6 @@ During his free time, and when his knees permit, Dan enjoys playing sports and h
 
 His full conflicts of interest are available [here](/coi)."
 ---
+
+
+
