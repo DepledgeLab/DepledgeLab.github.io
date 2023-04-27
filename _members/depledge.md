@@ -10,7 +10,7 @@ pronouns: he/him/his
 email: depledge.daniel (at) mh-hannover.de
 scholar: KC07ZZMAAAAJ
 website: https://www.mhh.de/en/mhh-institutes/virology/research/depledge-lab
-twitter: @dandepledge
+twitter: dandepledge
 github: DepledgeLab
 orcid: 0000-0002-4292-0599
 description: "Dan obtained a BSc(hons) in Biological Sciences at the University of Exeter in the UK before subsequently obtaining an MSc in Bioinformatics at the same institution. Following a year of travelling and internships in labs in Bermuda and Montana
