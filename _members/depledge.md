@@ -1,6 +1,6 @@
 ---
 name: Daniel Depledge, Ph.D.
-startdate: [01.06.2021]
+startdate: [2021-01-06]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
 # altimage: /static/img/members/depledge_dan_fin.jpg
