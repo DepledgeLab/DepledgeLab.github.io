@@ -9,7 +9,7 @@ timeline_name: #If you would like your name to appear differently on the Lab tim
 startdate: 2022-10-01
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/loliashvili_elene_fin.jpg #365 x 365 pixels, 72 dpi
-altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/flag_georgia.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 subsequent: #Leave this blank until you leave the lab
 email: elene.loliashvili (at) gmail.com #loliashvili.elene (at) mh-hannover.de
