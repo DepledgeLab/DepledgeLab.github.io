@@ -1,7 +1,3 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-Optional fields:
-timeline_name, pronouns, scholar, website, twitter, linkedin, github
 ---
 #REQUIRED
 name: Ruth Verstraten, Ph.D. 
