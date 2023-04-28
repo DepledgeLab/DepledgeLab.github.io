@@ -3,7 +3,7 @@ name: Daniel Depledge, Ph.D.
 startdate: [2021-01-06]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
-# altimage: /static/img/members/depledge_dan_fin.jpg
+altimage: /static/img/members/depledge_uk.jpg
 position: Principal Investigator
 #current:
 pronouns: he/him/his
