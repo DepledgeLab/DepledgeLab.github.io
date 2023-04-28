@@ -10,9 +10,9 @@ startdate: 2022-10-01
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/loliashvili_elene_fin #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: PhD student
+position: Graduate Student
 subsequent: #Leave this blank until you leave the lab
-email: elene.loliashvili@gmail.com #loliashvili.elene (at) mh-hannover.de
+email: elene.loliashvili (at) gmail.com #loliashvili.elene (at) mh-hannover.de
 orcid: 0009-0006-4098-5010
 scholar: #XXXXXXXXXXXX #Google Scholar User ID, create if you don't have one
 description: "
