@@ -20,7 +20,7 @@ Ruth obtained a BSc in Molecular Biology in Utrecht, The Netherlands, and subseq
 She subsequently undertook a PhD at the University of Cambridge where her studies focused on innate immune responses and persistent HPV infections in cervical cancer. She then worked as a postdoc in the 
 lab of Prof. Anne Brown, first at Imperial College London, UK and later at the Icahn school of Medicine at Mount Sinai, New York where her project focused on the functional characterization of genetic alterations on uveal melanoma.
 She joined the Depledge Lab in 2021 where she studies herpesviral transcriptomics using novel nanopore sequencing approaches. Outside the life, Ruth is a dedicated mother of two who likes to spend time hiking around and enjoying nature. 
-She is also learning to drive...
+She is also learning to drive..."
 
 #OPTIONAL
 pronouns: she/her/hers
