@@ -1,7 +1,3 @@
-Required fields:
-Name, start date, image, altimage, position, email, ORCID, Google Scholar ID, description
-Optional fields:
-timeline_name, pronouns, scholar, website, twitter, linkedin, github
 ---
 #REQUIRED
 name: Elene Loliashvili
@@ -12,7 +8,7 @@ image: /static/img/members/loliashvili_elene_fin.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/flag_georgia.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
 subsequent: #Leave this blank until you leave the lab
-email: elene.loliashvili (at) gmail.com #loliashvili.elene (at) mh-hannover.de
+email: loliashvili.elene (at) mh-hannover.de
 orcid: 0009-0006-4098-5010
 scholar: #XXXXXXXXXXXX #Google Scholar User ID, create if you don't have one
 description: "Before starting her PhD, Elene obtained a bachelor's degree in biology from the Agricultural University of Georgia and a Master's degree from the Ludwig Maximilian University of Munich where she studied Molecular and Cellular Biology and produced a thesis on the characterization of antiviral innate immune signaling using spatial proteomics at Max Planck Institute of Biochemistry.
