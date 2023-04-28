@@ -1,9 +1,9 @@
 ---
 #REQUIRED
 name: Elene Loliashvili
-timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
-startdate: 2022-10-01
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+timeline_name: 
+startdate: [2022-10-01]
+enddate: []
 image: /static/img/members/loliashvili_elene_fin.jpg #365 x 365 pixels, 72 dpi
 altimage: /static/img/members/flag_georgia.jpg #365 x 365 pixels, 72 dpi
 position: Graduate Student
