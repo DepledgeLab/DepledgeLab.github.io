@@ -10,7 +10,7 @@ startdate: [2021-08-16] #Enter your start date
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/verstraten_ruth_fin.jpg #365 x 365 pixels, 72 dpi
 #altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi
-position: Postdoc
+position: Postdoctoral Scholar
 subsequent: #Leave this blank until you leave the lab
 email: verstraten.ruth (at) mh-hannover.de
 orcid: 0009-0008-6046-6335
