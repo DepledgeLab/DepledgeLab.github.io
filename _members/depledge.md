@@ -1,6 +1,6 @@
 ---
-name: Daniel, Depledge, Ph.D.
-startdate: [01.06.2021]
+name: Daniel Depledge, Ph.D.
+startdate: [2021-01-06]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
 # altimage: /static/img/members/depledge_dan_fin.jpg
@@ -9,7 +9,7 @@ position: Principal Investigator
 pronouns: he/him/his
 email: depledge.daniel (at) mh-hannover.de
 scholar: KC07ZZMAAAAJ
-website: https://www.mhh.de/en/mhh-institutes/virology/research/depledge-lab
+website: 
 twitter: dandepledge
 github: DepledgeLab
 orcid: 0000-0002-4292-0599
@@ -33,3 +33,6 @@ During his free time, and when his knees permit, Dan enjoys playing sports and h
 
 His full conflicts of interest are available [here](/coi)."
 ---
+
+
+
