@@ -4,7 +4,7 @@ timeline_name: #If you would like your name to appear differently on the Lab tim
 startdate: [2021-08-16] #Enter your start date
 enddate: []
 image: /static/img/members/verstraten_ruth_fin.jpg
-#altimage: /static/img/members/flag_nl.jpg #365 x 365 pixels, 72 dpi
+altimage: /static/img/members/flag_nl.jpg #365 x 365 pixels, 72 dpi
 position: Postdoctoral Scholar
 subsequent: #Leave this blank until you leave the lab
 email: verstraten.ruth (at) mh-hannover.de
