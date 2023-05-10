@@ -5,7 +5,7 @@ startdate: [2021-09-01]
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/vogt_carolin-fin.jpg
 altimage: /static/img/members/germany_flag.jpg
-position: Post-doc
+position: Postdoctoral Scholar
 subsequent: #Leave this blank until you leave the lab				### LEAVE THIS BLANK
 email: vogt.carolin (at) mh-hannover.de 
 orcid: 0009-0004-7005-0086
