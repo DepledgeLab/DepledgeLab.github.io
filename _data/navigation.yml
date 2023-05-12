@@ -10,17 +10,9 @@
   link: "/publications"
   group: publications
 
-- name: reviews
-  link: "/reviews"
-  group: reviews
-
 - name: members
   link: "/members"
   group: members
-
-- name: teaching
-  link: "/courses"
-  group: courses
 
 - name: philosophy
   link: "/philosophy"
@@ -38,6 +30,6 @@
   link: "/contact"
   group: contact
 
-- name: private
-  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
-  group: private
+#- name: private
+#  link: "https://sites.google.com/fraserlab.com/fraserlab-private/"
+#  group: private
