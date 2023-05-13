@@ -29,9 +29,7 @@ In 2018, he became a Research Assistant Professor and combined research with tea
 
 In 2021, he joined the Hannover Medical School in Germany as an Associate W2 Professor of Systems Virology, funded via the German Centre for Infection Research. Here, he has established a diverse research program that works at the interface of molecular virology and computational biology.
 
-During his free time, and when his knees permit, Dan enjoys playing sports and has long standing interests in music, film, and writing.
-
-His full conflicts of interest are available [here](/coi)."
+During his free time, and when his knees permit, Dan enjoys playing sports and has long standing interests in music, film, and writing."
 ---
 
 

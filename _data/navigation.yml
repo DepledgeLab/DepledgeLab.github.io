@@ -14,9 +14,9 @@
   link: "/members"
   group: members
 
-- name: philosophy
-  link: "/philosophy"
-  group: philosophy
+#- name: philosophy
+#  link: "/philosophy"
+#  group: philosophy
 
 - name: news
   link: "/news"
