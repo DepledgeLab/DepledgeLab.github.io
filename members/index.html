@@ -122,14 +122,14 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
 
 <div>
 {% assign stretch = 60 %}
-{% assign yheight = 10 %}  [//]: # (changed from 16)
+{% assign yheight = 10 %}  <!--changed from 16-->
 {% assign yspacing = 18 %}
-{% assign fontsize = 10 %}  [//]: # (changed from 12)
-{% assign yearoffset = 2015 %}  [//]: # (Set to 2020 once sufficient lab members (>7)
+{% assign fontsize = 10 %}  <!--changed from 12-->
+{% assign yearoffset = 2015 %}  <!--Set to 2020 once sufficient lab members (>7)-->
 {% assign majortick = 0.05 %}
 {% assign minortick = 0.025 %}
-{% assign legendboxsize = 20 %}
-{% assign legendboxspacing = 24 %}
+{% assign legendboxsize = 10 %} <!--changed from 20-->
+{% assign legendboxspacing = 14 %} <!--changed from 24-->
 {% assign people = site.members | concat: site.alumni | sort: "startdate" %}
 {% assign finalyear = "now" | date: "%Y" | plus: 1 %}
 <?xml version="1.0" encoding="UTF-8" ?>
@@ -198,7 +198,7 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
 {% assign i = i | plus: 1 %}
 {% endfor %}
 
-{% assign legendn = 7 %}
+{% assign legendn = 4 %} <!--changed from 7-->
 {% assign fontsize = 8 %} [//]: # (changed from 14)
 {% assign xposition = 10 %}
 {% assign yposition = i | times: yspacing %}
@@ -211,7 +211,7 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="gold" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Graduate student</text>
-{% assign yposition = yposition | plus: legendboxspacing %}
+<!--{% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="green" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Staff scientist</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
@@ -219,7 +219,7 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Research specialist</text>
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="blue" />
-<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Summer student</text>
+<text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Summer student</text> -->
 {% assign yposition = yposition | plus: legendboxspacing %}
 <rect x="{{ xposition }}" y="{{ yposition }}" width="{{ legendboxsize }}" height="{{ legendboxsize }}" fill="purple" />
 <text x="{{ fontsize | times: 0.25 | plus: legendboxsize | plus: xposition }}" y="{{ fontsize | times: 0.75 | plus: legendboxsize | times: 0.5 | plus: yposition }}" font-family="sans-serif" font-size="{{ fontsize }}" stroke="black">Visitor</text>
