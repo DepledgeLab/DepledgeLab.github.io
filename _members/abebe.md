@@ -18,6 +18,6 @@ Previously, he developed a tool (DRUMMER) that enabled the identification of RNA
 Outside of lab Jonathan enjoys playing video and board games and, when the situation is right, amature astronomy. Additionally, he enjoys reading all things sports and comic books."
 
 pronouns: he/him/his
-linkedin: jonathan-abebe-709944232/
+linkedin: jonathan-abebe-709944232
 github: JonAbebe
 ---
