@@ -41,7 +41,6 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
                   <a href="http://www.linkedin.com"><img class="inline-block mem-icon" src="/static/img/logo/linkedin_logo.svg"></a>
                   <a href= "http://www.linkedin.com/in/{{member.linkedin}}"> {{member.linkedin}} </a> <br>
                 {% endif %}
-                {% endif %}
                 {% if member.scholar %}
                   <a href="http://scholar.google.com"><img class="inline-block mem-icon" src="/static/img/logo/gscholar_logo.svg"></a>
                   <a href= "http://scholar.google.com/citations?user={{member.scholar}}"> {% if member.timeline_name %}{{ member.timeline_name }}{% else %}{{ member.name | split: " " | first }}{% endif %}'s Citations </a> <br>
