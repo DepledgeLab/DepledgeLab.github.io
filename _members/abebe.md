@@ -2,7 +2,7 @@
 name: Jonathan Abebe 
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2020-03-01] #Enter your start date
-enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
+enddate: []
 image: /static/img/members/abebe_jonathan_fin.jpg
 altimage: /static/img/members/usa_flag.jpg
 position: Graduate Student
@@ -18,6 +18,6 @@ Previously, he developed a tool (DRUMMER) that enabled the identification of RNA
 Outside of lab Jonathan enjoys playing video and board games and, when the situation is right, amature astronomy. Additionally, he enjoys reading all things sports and comic books."
 
 pronouns: he/him/his
-linkedin: https://www.linkedin.com/in/jonathan-abebe-709944232/
-github: https://github.com/JonAbebe
+linkedin: jonathan-abebe-709944232/
+github: JonAbebe
 ---
