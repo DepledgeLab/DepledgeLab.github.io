@@ -4,7 +4,7 @@ timeline_name: Dan
 startdate: [2019-01-01]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
-altimage: /static/img/members/depledge_uk.jpg
+#altimage: /static/img/members/depledge_uk.jpg
 position: Principal Investigator
 pronouns: he/him/his
 email: depledge.daniel (at) mh-hannover.de
