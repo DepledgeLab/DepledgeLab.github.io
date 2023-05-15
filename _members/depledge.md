@@ -1,7 +1,7 @@
 ---
 name: Daniel Depledge, Ph.D.
 timeline_name: Dan
-startdate: [2020-01-01]
+startdate: [2019-01-01]
 enddate: []
 image: /static/img/members/depledge_dan_fin.jpg
 altimage: /static/img/members/depledge_uk.jpg
