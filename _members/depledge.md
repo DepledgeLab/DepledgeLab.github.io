@@ -9,7 +9,6 @@ position: Principal Investigator
 pronouns: he/him/his
 email: depledge.daniel (at) mh-hannover.de
 scholar: KC07ZZMAAAAJ
-website: 
 twitter: dandepledge
 github: DepledgeLab
 orcid: 0000-0002-4292-0599
