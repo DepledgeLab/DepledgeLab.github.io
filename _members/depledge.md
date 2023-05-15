@@ -12,15 +12,11 @@ scholar: KC07ZZMAAAAJ
 twitter: dandepledge
 github: DepledgeLab
 orcid: 0000-0002-4292-0599
-description: "Dan obtained a BSc(hons) in Biological Sciences at the University of Exeter in the UK before subsequently obtaining an MSc in Bioinformatics at the same institution. Following a year of travelling and internships in labs in Bermuda and Montana
-he undertook a PhD in Molecular Parasitology in the lab of [Prof. Debbie Smith](https://www.york.ac.uk/biology/research/molecular-microbiology/smith/) at the University of York, UK. He next joined the parasite genomics group at the Wellcome Trust Sanger Institute
-where he worked on annotating Leishmania and Plasmodium transcriptomes.
+description: "Dan obtained a BSc(hons) in Biological Sciences at the University of Exeter in the UK before subsequently obtaining an MSc in Bioinformatics at the same institution. Following a year of travelling and internships in labs in Bermuda and Montana he undertook a PhD in Molecular Parasitology in the lab of [Prof. Debbie Smith](https://www.york.ac.uk/biology/research/molecular-microbiology/smith/) at the University of York, UK. He next joined the parasite genomics group at the Wellcome Trust Sanger Institute where he worked on annotating Leishmania and Plasmodium transcriptomes.
 
-In 2011, he switched his focus to viruses and began a productive post-doctoral position in the lab of [Prof. Judy Breuer](https://www.ucl.ac.uk/infection-immunity/professor-judith-breuer) where he specialized in combining novel sequencing methodologies with bespoke 
-bioinformatics solutions for the capture, sequencing, and analysis of viral genomes and transcriptomes from clinical samples.
+In 2011, he switched his focus to viruses and began a productive post-doctoral position in the lab of [Prof. Judy Breuer](https://www.ucl.ac.uk/infection-immunity/professor-judith-breuer) where he specialized in combining novel sequencing methodologies with bespoke bioinformatics solutions for the capture, sequencing, and analysis of viral genomes and transcriptomes from clinical samples.
 
-In 2014, he was awarded a three-year Medical Research Foundation New Investigator Award which allowed him to pursue his own research interests. In collaboration with Werner Ouwendijk (Erasmus MC) and Tomohiko Sadaoko (Kobe University), they discovered the 
-VZV latency transcript, a critical discovery that finally resolved a long standing mystery.
+In 2014, he was awarded a three-year Medical Research Foundation New Investigator Award which allowed him to pursue his own research interests. In collaboration with Werner Ouwendijk (Erasmus MC) and Tomohiko Sadaoko (Kobe University), they discovered the VZV latency transcript, a critical discovery that finally resolved a long standing mystery.
 
 Dan moved to New York in 2017 and joined the lab of Prof Ian Mohr at the NYU School of Medicine. Here, he collaborated with Ian Mohr and Angus Wilson to pioneer the use of nanopore direct RNA-Sequencing to profile viral transcriptomes and detect RNA modifications. This led to numerous productive collaborations and successful projects.
 
