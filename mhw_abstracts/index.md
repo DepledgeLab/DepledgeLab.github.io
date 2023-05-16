@@ -14,11 +14,17 @@ group: mhw_abstracts
 <input type="text" name="fullName" placeholder="Your full name">
 <input type="text" name="Affiliation" placeholder="Your affiliation">
 <input type="text" name="Email" placeholder="Your email">
-<input type="text" name="Abstract" placeholder="text">
 <input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
  
-<button type="submit">Send</button>
-  
+<div class="formcarry-block">
+<label for="fc-generated-1-message">Abstract</label>
+<textarea name="message" name="message" id="fc-generated-1-message" placeholder="Enter your abstract..."></textarea>
+</div>
+         
+<div class="formcarry-block">  
+<button type="submit">Submit</button>
+</div>  
+ 
 </form>
 
 <body>
