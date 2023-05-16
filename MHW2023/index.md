@@ -1,6 +1,6 @@
 ---
 title: 16th Mini Herpesvirus Workshop
-layout: default
+layout: MHW2023
 group: MHW2023
 ---
 
