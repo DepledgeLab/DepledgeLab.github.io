@@ -1,7 +1,7 @@
 ---
 title: Programme
 layout: default
-group: programme
+group: mhw_programme
 ---
 
 # Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon
