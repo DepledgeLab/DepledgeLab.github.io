@@ -1,7 +1,7 @@
 ---
 title: Directions & Contacts
 layout: default
-group: mhw_contact
+group: mhw_contacts
 ---
 
 # Contact the Organisers
