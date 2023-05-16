@@ -18,6 +18,10 @@
 #  link: "/philosophy"
 #  group: philosophy
 
+- name: 16th Mini Herpesvirus Workshop
+  link: "/MHW2023"
+  group: MHW2023
+
 - name: news
   link: "/news"
   group: news
