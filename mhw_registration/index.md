@@ -1,15 +1,15 @@
 ---
 title: Registration
 layout: default
-group: registration
+group: mhw_registration
 ---
 
 # Registration
 
-To register, please send an email to depledge.daniel@mh-hannover.de and/or viejo-borbolla.abel@mh-hannover.de with your name, position (PhD student, postdoc, PI, other), address, and dietary preferences (e.g., vegetarian). Please, include ìRegistration for Mini-Herpesvirus Workshopî in the subject of the email. 
+To register, please send an email to depledge.daniel@mh-hannover.de and/or viejo-borbolla.abel@mh-hannover.de with your name, position (PhD student, postdoc, PI, other), address, and dietary preferences (e.g., vegetarian). Please, include ‚ÄúRegistration for Mini-Herpesvirus Workshop‚Äù in the subject of the email. 
 Abstracts should be attached as a Word file and contain title, authors, affiliation(s), and a text of max. 250 words.
 
-A registration fee of 35 Ä (includes lunch, coffee breaks and social event) should be transferred to:
+A registration fee of 35 ‚Ç¨ (includes lunch, coffee breaks and social event) should be transferred to:
 Sebastian Voigt
 Verwendungszweck/reason for transfer: D/112-00020; 16th Mini-Herpesvirus Workshop, name of participant
 IBAN: 
