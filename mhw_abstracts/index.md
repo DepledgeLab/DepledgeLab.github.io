@@ -60,4 +60,5 @@ group: mhw_abstracts
       </section>
       
 
+{% include abstract.html %} 
 
