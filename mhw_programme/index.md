@@ -5,19 +5,18 @@ group: mhw_programme
 ---
 
 ## Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon
+<br />
+
+### Keynote speakers
+
+#### Dr. Hannah Burgess, University of Surrey, UK
+<br />
+
+#### Dr. Jia Zhu, University of Washington, USA
+<br />
 
 
-## Keynote speakers
-
-### Dr. Hannah Burgess, University of Surrey, UK
-
-### Dr. Jia Zhu, University of Washington, USA
- 
- 
-
-
-
-## Preliminary Programme
+### Preliminary Programme
 
 0900-1000: Arrival and Coffee
 
