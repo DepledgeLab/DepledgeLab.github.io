@@ -9,57 +9,46 @@ group: mhw_abstracts
 ### Abstracts must be submitted by 18th August and are limited to 250 words. 
 
 
-<form action="https://formcarry.com/s/fDxCKYtULL" method="POST" accept-charset="UTF-8" enctype="multipart/form-data">
+<body>
+  <div class="container">
+    <div class="form-wrapper">
+      <div class="form-introduction">
+      </div>
 
-<input type="text" name="fullName" placeholder="Your full name">
-<input type="text" name="Affiliation" placeholder="Your affiliation">
-<input type="text" name="Email" placeholder="Your email">
-<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+<form action="https://formcarry.com/s/fDxCKYtULL" method="POST" accept-charset="UTF-8" enctype="multipart/form-data">
+ 
+<div class="formcarry-block">
+<label for="fc-generated-1-name">your full name</label>
+<input type="text" name="name" id="fc-generated-1-email" placeholder="your full name" />
+</div>
+
+ <div class="formcarry-block">
+<label for="fc-generated-1-affiliation">your affiliation</label>
+<input type="text" name="affiliation" id="fc-generated-1-affiliation" placeholder="your affiliation" />
+</div>
+ 
+<div class="formcarry-block">
+<label for="fc-generated-1-email">your email address</label>
+<input type="email" name="email" id="fc-generated-1-email" placeholder="john@doe.com" />
+</div>
+
+<div class="formcarry-block">
+<label for="fc-generated-1-title">title of presentation</label>
+<input type="text" name="title" id="fc-generated-1-email" placeholder="presentation title" />
+</div>
  
 <div class="formcarry-block">
 <label for="fc-generated-1-message">Abstract</label>
 <textarea name="message" name="message" id="fc-generated-1-message" placeholder="Enter your abstract..."></textarea>
 </div>
-         
+
+<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+ 
 <div class="formcarry-block">  
 <button type="submit">Submit</button>
 </div>  
- 
-</form>
-
-<body>
-  <div class="container">
-    <div class="form-wrapper">
-      <div class="form-introduction">
-        <img id="fc-sumbul" src="https://carrier.formcarry.com/demo-assets/sumbul-wave.png" alt="Yo 👋" width="120">
-        <h1>Hey, Daniel</h1>
-        <p class="description">Here is a working demo form for your <a href="https://app.formcarry.com/form/fDxCKYtULL/setup">Abstract submission</a></p>
-        <p>Submit the form down below, you'll see the message in your dashboard.</p>
-      </div>
-
-      <section class="formcarry-container">
-        <form action="https://formcarry.com/s/fDxCKYtULL" method="POST" target="_blank" enctype="multipart/form-data">
-          
-          <div class="formcarry-block">
-            <label for="fc-generated-1-name">Full Name</label>
-            <input type="text" name="name" id="fc-generated-1-name" placeholder="Your first and last name" />
-          </div>
-          
-          <div class="formcarry-block">
-            <label for="fc-generated-1-email">Your Email Address</label>
-            <input type="email" name="email" id="fc-generated-1-email" placeholder="john@doe.com" />
-          </div>
-          
-          <div class="formcarry-block">
-            <label for="fc-generated-1-message">Your message</label>
-            <textarea name="message" name="message" id="fc-generated-1-message" placeholder="Enter your message..."></textarea>
-          </div>
-          
-          <div class="formcarry-block">  
-            <button type="submit">Send</button>
-          </div>
-        
-          <a id="fc-notice" href="https://formcarry.com/">
+  
+ <a id="fc-notice" href="https://formcarry.com/">
             <span>Forms by</span>
             <img
               src="https://carrier.formcarry.com/templates/common/formcarry_footer_logo.svg"
