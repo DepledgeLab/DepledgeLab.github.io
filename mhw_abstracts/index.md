@@ -11,11 +11,13 @@ group: mhw_abstracts
 
 <form action="https://formcarry.com/s/fDxCKYtULL" method="POST" accept-charset="UTF-8">
 
+ <input type="email" name="email"><!-- use this to reply visitors and prevent spam -->
+<input type="text" name="fullName">
+<input type="text" name="Affiliation">
+<input type="text" name="Email">
+<input type="text" name="Abstract">
+<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
+  
 </form>
 
-<input type="email" name="email"><!-- use this to reply visitors and prevent spam -->
-<input type="text" name="firstName">
-<input type="text" name="lastName">
-<input type="text" name="anotherInput">
-<input type="hidden" name="_gotcha"><!-- use this to prevent spam -->
 
