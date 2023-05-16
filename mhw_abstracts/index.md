@@ -1,7 +1,7 @@
 ---
 title: Abstracts
 layout: default
-group: abstracts
+group: mhw_abstracts
 ---
 
 # Abstracts
