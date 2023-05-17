@@ -5,12 +5,15 @@ group: mhw_programme
 ---
 
 ## Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon
+
+This informal meeting provides an opportunity for young herpesvirus researchers to present their data to a knowledgeable audience, meet colleagues, and initiate fruitful collaborations. We will enjoy short oral presentations given by graduate students and postdocs, which will be selected from submitted abstracts.  
+
 <br />
 
 ## Keynote speakers
 
 
-<img class="img-fluid" height="200" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
+<img class="img-fluid" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
 
 #### Dr. Hannah Burgess, University of Surrey, UK
 #### Title tbc.
