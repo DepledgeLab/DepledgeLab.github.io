@@ -9,10 +9,15 @@ group: mhw_programme
 
 ### Keynote speakers
 
+
+<img class="img-fluid" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
+
 #### Dr. Hannah Burgess, University of Surrey, UK
+##### Title tbc.
 <br />
 
 #### Dr. Jia Zhu, University of Washington, USA
+##### Title tbc.
 <br />
 
 
