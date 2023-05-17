@@ -6,7 +6,14 @@ group: mhw_abstracts
 
 # Abstracts
 
-### Abstracts must be submitted by 18th August and are limited to 250 words. 
+### Abstract submission will be enabled in early June
+
+##### Abstracts must be submitted through the abstract submission page (i.e. this page) as a Word document (.doc/.docx) by 18th August
+
+##### Please include a title, all authors and affiliations, and an abstract text of max 250 words
+
+{% comment %}
 
 {% include abstract.html %} 
 
+{% endcomment %}
