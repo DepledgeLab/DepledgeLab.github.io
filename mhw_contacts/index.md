@@ -14,7 +14,7 @@ group: mhw_contacts
   <h4>Daniel Depledge, Ph.D.</h4>
   [Institute of Virology](https://www.mhh.de/en/mhh-institutes/virology)<br>
   Hannover Medical School (MHH), Carl-Neuberg-Str. 1<br>
-  30559, Hannover<br>
+  30625, Hannover<br>
   Germany<br>
   email: depledge.daniel (at) mh-hannover.de<br>
 	
@@ -25,7 +25,7 @@ group: mhw_contacts
   <h4>Abel Viejo-Borbolla, Ph.D.</h4>
   Institute of Virology<br>
   Hannover Medical School (MHH), Carl-Neuberg-Str. 1<br>
-  30559, Hannover<br>
+  30625, Hannover<br>
   Germany<br>
   email: viejo-borbolla.abel (at) mh-hannover.de<br>
 	
@@ -39,6 +39,6 @@ group: mhw_contacts
 * ##### Car:
   * Building J6 (aka I6) is located on the main MHH campus. Parking is available throughout the campus area.
 
-### The Mini Herpesvirus Workshop will take place in Hoersal R on the ground floor of Building J6 while the evening social event will take place in the TwinCore garden, a five minute walk from J6:
+### The Mini Herpesvirus Workshop will take place in Hoersal R on the ground floor of Building J6 while the evening social event will take place in the Twincore garden, a five minute walk from J6:
 <img class="img-fluid" src="/static/img/mhh_campus_map.jpg" alt="Map of the MHH">
 
