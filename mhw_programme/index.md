@@ -10,7 +10,7 @@ group: mhw_programme
 ### Keynote speakers
 
 
-<img class="img-fluid" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
+<img class="img-fluid" height="200" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
 
 #### Dr. Hannah Burgess, University of Surrey, UK
 ##### Title tbc.
