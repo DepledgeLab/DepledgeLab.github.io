@@ -7,23 +7,23 @@ group: mhw_programme
 ## Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon
 <br />
 
-### Keynote speakers
+## Keynote speakers
 
 
 <img class="img-fluid" height="200" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
 
 #### Dr. Hannah Burgess, University of Surrey, UK
-##### Title tbc.
+#### Title tbc.
 <br />
 
 #### Dr. Jia Zhu, University of Washington, USA
-##### Title tbc.
+#### Title tbc.
 <br />
 
 
 ### Preliminary Programme
 
-0900-1000: Arrival and Coffee
+0900-1000: Arrival at MHH J6 building and coffee
 
 1000-1200: Talks
 
@@ -35,4 +35,16 @@ group: mhw_programme
 
 1530-1800: Talks
 
-1800-late: Social Event
+1800-late: Social event at Twincore (10 mins walk from MHH J6 building)
+
+<br />
+
+Coffee, non-alcoholic drinks, lunch, and dinner at the social event are included in the registration fee. 
+
+<br />
+
+Alcoholic drinks will be available for purchase at the social event. 
+
+
+
+
