@@ -1,14 +1,23 @@
 ---
 title: Accommodation
-layout: default
+layout: mhw_programme
 group: mhw_accommodation
 ---
 
-# Accommodation
+## Accommodation
 
-### Accommodation is not provided by us. We recommend the following hotels that are within walking distance (10-15 mins) of the MHH campus: 
+<br />
 
-### Mercure Hotel - https://all.accor.com/hotel/1631/index.de.shtml  
-### Ibis Hotel - https://all.accor.com/hotel/1632/index.de.shtml  
+##### Accommodation is not provided by us. We recommend the following hotels that are within walking distance (10-15 mins) of the MHH campus: 
 
-#### Alternatively, you may also find good options via the internet. 
+<br />
+
+##### (Mercure Hotel)[https://all.accor.com/hotel/1631/index.de.shtml]
+
+<br />
+
+##### Ibis Hotel - https://all.accor.com/hotel/1632/index.de.shtml  
+
+<br />
+
+##### Alternatively, you may also find good options via the internet. 
