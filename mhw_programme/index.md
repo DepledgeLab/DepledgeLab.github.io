@@ -19,8 +19,10 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 #### Title tbc.
 <br />
 
-#### Dr. Jia Zhu, University of Washington, USA
-#### Title tbc.
+<img class="img-fluid" src="/static/img/mhw/zhu.jpg" alt="Jia Zhu, PhD">
+
+#### Dr. Jia Zhu, Fred Hutch Cancer Centre & University of Washington, USA
+#### Success and failure of host immunity in human HSV-2 infections
 <br />
 
 
