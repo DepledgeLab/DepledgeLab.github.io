@@ -21,11 +21,6 @@
 - name: 16th Mini Herpesvirus Workshop
   link: "/MHW2023"
   group: MHW2023
-  subfolderitems:
-  - page: Piece 1
-    link: /mhw_registration 
-  - page: Piece 2
-    link: /mhw_contacts 
 
 - name: news
   link: "/news"
