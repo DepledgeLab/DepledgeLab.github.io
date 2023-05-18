@@ -1,6 +1,6 @@
 ---
 title: Programme
-layout: default
+layout: mhw_programme
 group: mhw_programme
 ---
 
