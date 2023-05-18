@@ -12,12 +12,12 @@ group: mhw_accommodation
 
 <br />
 
-##### (Mercure Hotel)[https://all.accor.com/hotel/1631/index.de.shtml]
+##### [Mercure Hotel at the Hannover Medical Campus](https://all.accor.com/hotel/1631/index.de.shtml)
 
 <br />
 
-##### Ibis Hotel - https://all.accor.com/hotel/1632/index.de.shtml  
+##### [Ibis Hotel at the Hannover Medical Campus](https://all.accor.com/hotel/1632/index.de.shtml)
 
 <br />
 
-##### Alternatively, you may also find good options via the internet. 
+##### Alternatively, you may also find good options in the local area via the internet (e.g. [booking.com](https://www.booking.com/). 
