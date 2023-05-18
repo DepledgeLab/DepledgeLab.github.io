@@ -1,16 +1,18 @@
 ---
 title: Registration
-layout: default
+layout: mhw_programme
 group: mhw_registration
 ---
 
 # Registration
 
-To register, please send an email to depledge.daniel [at] mh-hannover.de and/or viejo-borbolla.abel [at] mh-hannover.de with your name, position (PhD student, postdoc, PI, other[specify]), address, and dietary requirements (e.g., vegetarian). Please, include “Registration for Mini-Herpesvirus Workshop” in the subject of the email. 
+<br /> 
+
+#### To register, please send an email to depledge.daniel [at] mh-hannover.de and/or viejo-borbolla.abel [at] mh-hannover.de with your name, position (PhD student, postdoc, PI, other[specify]), address, and dietary requirements (e.g., vegetarian). Please, include “Registration for Mini-Herpesvirus Workshop” in the subject of the email. 
 
 <br />
 
-A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coffee breaks, and the social event) should be transferred to:
+#### A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coffee breaks, and the social event) should be transferred to:
 tbc
 
 {% comment %}
