@@ -35,6 +35,10 @@
                 <li class = "nav-item active"><a class="nav-link" href="{{link.link}}" alt="{{link.name}}"> {{link.name}}<span class="sr-only">(current)</span></a></li>
               {% else %}
                 <li class="nav-item"><a class="nav-link" href="{{link.link}}" alt="{{link.name}}"> {{link.name}}</a></li>
+              
+              {% for entry in item.subfolderitems %}
+                  <li><a href="{{ entry.url }}">{{ entry.page }}</a></li>
+        
               {% endif %}
             {% endfor %}
             <!-- <li><a href="https://sites.google.com/a/fraserlab.com/ucsf-private/" alt="Lab Private Area">private</a></li> -->
