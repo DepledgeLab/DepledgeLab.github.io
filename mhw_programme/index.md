@@ -6,9 +6,13 @@ group: mhw_programme
 
 ## Programme
 
-#### Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon
+<br />
 
-**This informal meeting provides an opportunity for young herpesvirus researchers to present their data to a knowledgeable audience, meet colleagues, and initiate fruitful collaborations. We will enjoy short oral presentations given by graduate students and postdocs, which will be selected from submitted abstracts.**  
+#### <em>Full details of the 16th Mini Herpesvirus Workshop Programme will be released soon</em>
+
+<br />
+
+This informal meeting provides an opportunity for young herpesvirus researchers to present their data to a knowledgeable audience, meet colleagues, and initiate fruitful collaborations. We will enjoy short oral presentations given by graduate students and postdocs, which will be selected from submitted abstracts.
 
 <br />
 
@@ -29,19 +33,21 @@ group: mhw_programme
 
 <h3>Preliminary Programme</h3>
 
-**0900-1000: Arrival at MHH J6 building and coffee**
+<br />
 
-**1000-1200: Talks**
+0900-1000: Arrival at MHH J6 building and coffee**
 
-**1200-1300: Lunch**
+1000-1200: Talks
 
-**1300-1500: Talks**
+1200-1300: Lunch
 
-**1500-1530: Coffee**
+1300-1500: Talks
 
-**1530-1800: Talks**
+1500-1530: Coffee
 
-**1800-late: Social event at Twincore (10 mins walk from MHH J6 building)**
+1530-1800: Talks
+
+1800-late: Social event at Twincore (10 mins walk from MHH J6 building)
 
 <br />
 
