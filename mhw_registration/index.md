@@ -13,23 +13,23 @@ group: mhw_registration
 <br />
 
 **A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coffee breaks, and the social event) should be transferred to:**
-tbc
 
-{% comment %}
+<br />
+
+
 
 Sebastian Voigt
 
-{% endcomment %}
-
 Verwendungszweck/reason for transfer: D/112-00020; 16th Mini-Herpesvirus Workshop, name of participant
 
-IBAN: 
+IBAN: DE67 3006 0601 0026 6164 31
 
-BIC: 
+BIC: DAAEDEDDXXX
 
 <br />
 
 **Deadline for abstract submission: 18th August 2023**
+
 **Deadline for registration and payment: 1st September 2023**
 
 <br />
