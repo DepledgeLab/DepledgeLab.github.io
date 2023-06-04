@@ -22,7 +22,9 @@ group: mhw_abstracts
 
 {% endcomment %}
 
-##### IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August
+##### ${\color{red}IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August}$
 
-$${\color{red}Red}$$
+##### <code style="color : orangered">IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</code>
+
+
 
