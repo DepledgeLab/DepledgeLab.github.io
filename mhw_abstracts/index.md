@@ -8,23 +8,15 @@ group: mhw_abstracts
 
 <br />
 
-### Abstract submission is now open!!!
+<code style="color : orangered"> Abstract submission is now open!!! </code>
 
 <br />
 
 Abstracts for the 16th Mini-Herpesvirus Workshop must be submitted here as a Word document (.doc/.docx) by 18th August. 
 
-<br />
-
 Please include the title, all authors and affiliations, and an abstract text of max 250 words in the Word document.
 
-
-{% comment %}
-
-{% include abstract.html %} 
-
-{% endcomment %}
-
+{% include abstract.html %}
 
 <code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</b></code>
 
