@@ -22,12 +22,14 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 
 ##### Dr. Hannah Burgess, University of Surrey, UK
 ##### Title tbc.
+
 <br />
 
 <img class="img-fluid" src="/static/img/mhw/zhu.jpg" alt="Jia Zhu, PhD">
 
 ##### Dr. Jia Zhu, Fred Hutch Cancer Centre & University of Washington, USA
-**Success and failure of host immunity in human HSV-2 infections**
+##### Success and failure of host immunity in human HSV-2 infections
+
 <br />
 
 
