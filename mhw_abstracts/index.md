@@ -4,7 +4,7 @@ layout: mhw_programme
 group: mhw_abstracts
 ---
 
-# Abstracts
+## Abstracts
 
 <br />
 
@@ -12,8 +12,11 @@ group: mhw_abstracts
 
 <br />
 
-##### Abstracts for the 16th Mini-Herpesvirus Workshop must be submitted here as a Word document (.doc/.docx) by 18th August. 
-##### Please include the title, all authors and affiliations, and an abstract text of max 250 words with the Word document
+Abstracts for the 16th Mini-Herpesvirus Workshop must be submitted here as a Word document (.doc/.docx) by 18th August. 
+
+<br />
+
+Please include the title, all authors and affiliations, and an abstract text of max 250 words in the Word document.
 
 
 {% comment %}
@@ -22,9 +25,8 @@ group: mhw_abstracts
 
 {% endcomment %}
 
-##### ${\color{red}IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August}$
 
-##### <code style="color : orangered">IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</code>
+<code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</b></code>
 
 
 
