@@ -20,7 +20,7 @@ Please include the title, all authors and affiliations, and an abstract text of 
 
 <br />
 
-<h4><code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</b></code></h4>
+<h5><code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August, 2023</b></code></h5>
 
 
 
