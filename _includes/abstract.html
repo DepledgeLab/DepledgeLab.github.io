@@ -7,7 +7,7 @@
   <title>Abstract Submission</title>
   <link rel="stylesheet" href="./style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&amp;display=swap">
-  <script src="https://www.google.com/recaptcha/api.js?render=6Ld4kmgmAAAAAAKwIXv9043nO0dLXfgFeN6YRoPO"></script>
+  <script src="https://www.google.com/recaptcha/api.js?render=6Le-dWkmAAAAAMRuPVRsIGXBSjmcl6G_CRBC6upv"></script>
 </head><body>
   <div class="container">
     <div class="form-wrapper">
@@ -39,10 +39,10 @@
 <div class="formcarry-block">
 <label for="fc-generated-1-message">Upload your abstract</label>
 <input type="file" name="abstract" required /> 
-
-<input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
-<button type="submit">Submit</button>
 </div>
+	
+<div class="g-recaptcha" data-sitekey="6Le-dWkmAAAAAMRuPVRsIGXBSjmcl6G_CRBC6upv"></div>
+<button type="submit">Submit</button>
  
 <a id="fc-notice" href="https://formcarry.com/">
             <span>Forms by</span>
@@ -53,16 +53,6 @@
             />
           </a>
         </form>
-  
-  <script>
-	grecaptcha.ready(function() {
-	grecaptcha.execute("6Ld4kmgmAAAAAAKwIXv9043nO0dLXfgFeN6YRoPO", {action: "homepage"})
-	.then(function(token) {
-			document.getElementById('captchaResponse').value = token;
-	});
-	});
-  </script>
-	
       </section>
       
       <!-- Form Styles -->
