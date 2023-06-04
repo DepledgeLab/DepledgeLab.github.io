@@ -8,7 +8,7 @@ group: mhw_abstracts
 
 <br />
 
-<h2><code style="color : orangered"><b>Abstract submission is now open!!!</b></code></h2>
+<h3><code style="color : orangered"><b>Abstract submission is now open!!!</b></code></h3>
 
 <br />
 
@@ -18,7 +18,9 @@ Please include the title, all authors and affiliations, and an abstract text of 
 
 {% include abstract.html %}
 
-<code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</b></code>
+<br />
+
+<h4><code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August</b></code></h4>
 
 
 
