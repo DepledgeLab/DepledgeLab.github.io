@@ -6,17 +6,22 @@ group: mhw_sponsors
 
 ## Thank you to our sponsors for making the 16th Mini-Herpesvirus Workshop a reality
 
-</br>
+<br />
+
 
 #### Gold level sponsors
 
+
 <img class="img-fluid" src="/static/img/mhw/gold.jpg" alt="Gold Sponsors">
 
-</br>
+
+<br />
+
 
 #### Silver level sponsors
 
-</br>
+
+<br />
 
 
 #### Bronze level sponsors
