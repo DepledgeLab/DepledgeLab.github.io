@@ -4,7 +4,9 @@ layout: mhw_programme
 group: mhw_contacts
 ---
 
-## Directions to the 16th Mini Herpesvirus Workshop
+### Directions to the 16th Mini Herpesvirus Workshop
+
+</br>
 
 * **Public Transport:**
   * The MHH is easily reached via the S-Bahn (train #4, direction Roderbruch) from the city centre (Kroepke) which is a five minute walk from the main train station. The MHH is served by two stops (Misburger Strasse & Medizinische Hochschule), both of which are a 5-10 minute walk from Building J6
@@ -18,6 +20,8 @@ group: mhw_contacts
 <br />
 
 ### Contact the organisers
+
+</br>
 
 **Prof. Dr. Daniel Depledge**
 
