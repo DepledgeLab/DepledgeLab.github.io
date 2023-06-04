@@ -42,6 +42,7 @@
 </div>
 
 <input type="hidden" id="captchaResponse" name="g-recaptcha-response" />
+	
 <button type="submit">Submit</button>
  
 <a id="fc-notice" href="https://formcarry.com/">
@@ -55,13 +56,14 @@
         </form>
   
   <script>
-			grecaptcha.ready(function() {
-				grecaptcha.execute("6Ld4kmgmAAAAAAKwIXv9043nO0dLXfgFeN6YRoPO", {action: "homepage"})
-				.then(function(token) {
-					
-				});
-			});
-		</script>
+	grecaptcha.ready(function() {
+	grecaptcha.execute("6Ld4kmgmAAAAAAKwIXv9043nO0dLXfgFeN6YRoPO", {action: "homepage"})
+	.then(function(token) {
+			document.getElementById('captchaResponse').value = token;
+	});
+	});
+  </script>
+	
       </section>
       
       <!-- Form Styles -->
