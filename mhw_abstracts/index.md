@@ -8,7 +8,7 @@ group: mhw_abstracts
 
 <br />
 
-<code style="color : orangered"> Abstract submission is now open!!! </code>
+<code style="color : orangered"><h2><b> Abstract submission is now open!!! </b></h2></code>
 
 <br />
 
