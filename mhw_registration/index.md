@@ -8,29 +8,29 @@ group: mhw_registration
 
 <br /> 
 
-**To register, please send an email to depledge.daniel [at] mh-hannover.de and/or viejo-borbolla.abel [at] mh-hannover.de with your name, position (PhD student, postdoc, PI, other[specify]), address, and dietary requirements (e.g., vegetarian). Please, include “Registration for Mini-Herpesvirus Workshop” in the subject of the email.** 
+To register, please send an email to depledge.daniel [at] mh-hannover.de and/or viejo-borbolla.abel [at] mh-hannover.de with your name, position (PhD student, postdoc, PI, other (please specify)), work address, and dietary requirements (e.g., vegetarian). Please, include “Registration for Mini-Herpesvirus Workshop” in the subject of the email.** 
 
 <br />
 
-**A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coffee breaks, and the social event) should be transferred to:**
+A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coffee breaks, and the social event) should be transferred to:
 
 <br />
 
+<code style="color : blue">Sebastian Voigt</code>
+
+<code style="color : blue">IBAN: DE67 3006 0601 0026 6164 31</code>
+
+<code style="color : blue">BIC: DAAEDEDDXXX</code>
+
+<code style="color : blue">Reason for transfer: D/112-00020, MHW2023, Name of Participant</code>
 
 
-Sebastian Voigt
-
-Verwendungszweck/reason for transfer: D/112-00020; 16th Mini-Herpesvirus Workshop, name of participant
-
-IBAN: DE67 3006 0601 0026 6164 31
-
-BIC: DAAEDEDDXXX
 
 <br />
 
-**Deadline for abstract submission: 18th August 2023**
+<code style="color : orangered"><b>Deadline for abstract submission: 18th August 2023</b></code>
 
-**Deadline for registration and payment: 1st September 2023**
+<code style="color : orangered"><b>Deadline for registration and payment: 1st September 2023</b></code>
 
 <br />
 
