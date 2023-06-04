@@ -27,7 +27,7 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 <img class="img-fluid" src="/static/img/mhw/zhu.jpg" alt="Jia Zhu, PhD">
 
 ##### Dr. Jia Zhu, Fred Hutch Cancer Centre & University of Washington, USA
-##### Title: Success and failure of host immunity in human HSV-2 infections
+**Success and failure of host immunity in human HSV-2 infections**
 <br />
 
 
@@ -35,7 +35,7 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 
 <br />
 
-0900-1000: Arrival at MHH J6 building and coffee**
+0900-1000: Arrival at MHH J6 building and coffee
 
 1000-1200: Talks
 
