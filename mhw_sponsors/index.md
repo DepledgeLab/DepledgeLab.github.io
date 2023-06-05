@@ -8,15 +8,15 @@ group: mhw_sponsors
 
 <br />
 
-
-#### Gold level sponsors
-
+## Platinum level sponsors
 
 <img class="img-fluid" src="/static/img/mhw/gold.jpg" alt="Gold Sponsors">
 
-
 <br />
 
+### Gold level sponsors
+
+<br />
 
 #### Silver level sponsors
 
@@ -24,6 +24,6 @@ group: mhw_sponsors
 <br />
 
 
-#### Bronze level sponsors
+##### Bronze level sponsors
 
 
