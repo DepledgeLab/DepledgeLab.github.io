@@ -21,7 +21,7 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 <img class="img-fluid" src="/static/img/mhw/burgess.jpg" alt="Hannah Burgess, PhD">
 
 ##### Dr. Hannah Burgess, University of Surrey, UK
-##### Title tbc.
+##### Regulation of Human Cytomegalovirus Infection by the CCR4-NOT Deadenylase Complex
 
 <br />
 
