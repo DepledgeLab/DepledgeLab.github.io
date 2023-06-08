@@ -10,11 +10,11 @@ group: join
 
 Our lab works at the intersection of molecular and computational virology and we are always looking for persons with expertise in one and/or the other. We welcome applicants from any race, ethnicity, religion, national origin, gender identity, gender expression, caregiver and family commitments, political affiliation, sexual orientation, and eligible age or disability status. Furthermore, we are committed to maintaining a supportive and collaborative lab environment.
 
-<br />
-
 We are always in the market for motivated and talented people, even if we do not have an open position currently advertised. We are interested in engaging with you in a conversation about your scientific background and goals for your future career (in academia, industry, or other ventures). We strive to provide excellent training across a wide range of computational and experimental techniques. If interested please send your CV/Resume to [Daniel Depledge](/contact).
 
-### Currently we have **open positions** for people with the following skills:
+<br/>
+
+### Currently we have open positions for people with the following skills:
 **Bioinformatics/Computational Biology** - MSc level or higher. Positions available are commensurate with experience. Please contact [Dan](/contact) if you are interested
 
 <!-- Currently we have **open positions** for people with the following skills:
