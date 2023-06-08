@@ -5,7 +5,7 @@ group: home
 ---
 
 ## Welcome to the Depledge Lab!
-{: .display-2}
+{: .display-4}
 <br>
 We are part of the [Institute of Virology](https://www.mhh.de/en/mhh-institutes/virology), at the [Hannover Medical School (MHH)](https://www.mhh.de/).
 {: .welcomefont}
