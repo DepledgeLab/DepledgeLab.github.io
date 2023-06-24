@@ -24,14 +24,14 @@ A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coff
 
 <code style="color : blue">Reason for transfer: D/112-00020, MHW2023, Name of Participant</code>
 
+<br />
 
+<code style="color : orangered"><b><h3>Deadline for abstract submission: 18th August 2023</h3></b></code>
+
+<code style="color : orangered"><b><h3>Deadline for registration and payment: 1st September 2023</h3></b></code>
 
 <br />
 
-<code style="color : orangered"><b>Deadline for abstract submission: 18th August 2023</b></code>
-
-<code style="color : orangered"><b>Deadline for registration and payment: 1st September 2023</b></code>
-
-<br />
+**Registration confirmations will be sent at the end of the month in which payments were made.**
 
 **Abstracts dispositions will be sent out on the 5th September, 2023. Depending on availability of funds, a limited number of travel stipends will be awarded.**
