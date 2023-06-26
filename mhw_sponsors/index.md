@@ -10,7 +10,7 @@ group: mhw_sponsors
 
 ## Platinum level sponsors
 
-<img class="img-fluid" src="/static/img/mhw/platinum.jpg" alt="Gold Sponsors">
+<img class="img-fluid" src="/static/img/mhw/platinum.jpg" alt="Platinum Sponsors">
 
 <br />
 
