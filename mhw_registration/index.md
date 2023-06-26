@@ -26,9 +26,9 @@ A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coff
 
 <br />
 
-<code style="color : orangered"><b><h3>Deadline for abstract submission: 18th August 2023</h3></b></code>
+<h3><code style="color : orangered"><b>Deadline for abstract submission: 18th August 2023</b></code></h3>
 
-<code style="color : orangered"><b><h3>Deadline for registration and payment: 1st September 2023</h3></b></code>
+<h3><code style="color : orangered"><b>Deadline for registration and payment: 1st September 2023</b></code></h3>
 
 <br />
 
