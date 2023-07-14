@@ -1,8 +1,8 @@
 ---
 name: Jonathan Abebe 
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
-startdate: [2020-03-01]
-enddate: #[]
+startdate: [2020-03-01, 2023-05-11]
+enddate: [2023-05-11]
 image: /static/img/members/abebe_jonathan_fin.jpg
 altimage: /static/img/members/usa_flag.jpg
 position: Graduate Student
