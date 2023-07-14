@@ -5,7 +5,7 @@ timeline_name: #If you would like your name to appear differently on the Lab tim
 startdate: [27-06-2023] #Enter your start date
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/fitzpatrick_fin.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK
-altimage: /static/img/members/flag_ireland_pb.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK
+altimage: /static/img/members/flag_ireland.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK
 position: Visiting Researcher
 subsequent: #Leave this blank until you leave the lab				### LEAVE THIS BLANK
 email: fitzpatrick.amy@mh-hannover.de  #username (at) domain.com #Enter your preferred public e-mail address
