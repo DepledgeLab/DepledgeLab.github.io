@@ -22,10 +22,13 @@ group: mhw_sponsors
 
 #### Silver level sponsors
 
+<img class="img-fluid" src="/static/img/mhw/silver.jpg" alt="Silver Sponsors">
 
 <br />
 
 
 ##### Bronze level sponsors
 
+<img class="img-fluid" src="/static/img/mhw/bronze.jpg" alt="Bronze Sponsors">
 
+<br />
