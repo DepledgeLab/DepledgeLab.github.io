@@ -1,7 +1,7 @@
 ---
 title: "Viral modulation of type II interferon increases T cell adhesion and virus spread"
 authors: "Jürgens C, Ssebyatika G, Beyer S, Plückebaum N, Kropp KA, González-Motos V, Ritter B, Böning H, Nikolouli E, Kinchington PR, Lachmann N, **Depledge DP**, Krey T, Viejo-Borbolla A"
-journal: ""
+journal: "bioRxiv (preprint)"
 pub_date: "2023-05-26" #Date of publication. Change from Biorxiv date to Journal date once accepted
 image: "/static/img/pub/2023_juergens.jpg" #Max dimensions 600x400
 pmid: "37292914"
