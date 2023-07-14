@@ -5,7 +5,7 @@ timeline_name: #If you would like your name to appear differently on the Lab tim
 startdate: [2023-06-27] #Enter your start date
 enddate: []
 image: /static/img/members/fitzpatrick_fin.jpg
-altimage: /static/img/members/flag_ireland.jpg
+altimage: /static/img/members/ireland_flag.jpg
 position: Visiting Researcher
 subsequent: #Leave this blank until you leave the lab				### LEAVE THIS BLANK
 email: fitzpatrick.amy (at) mh-hannover.de 
