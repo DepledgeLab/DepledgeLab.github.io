@@ -16,8 +16,7 @@ Currently, she is working on disentangling direct RNA ONT sequencing data, from 
 
 #OPTIONAL
 pronouns: she/her/her #example:they/them/theirs, he/him/his, she/her/hers, etc
-website: #https://website.com/ #Enter your personal/professional website
-twitter: @AmyHFitzpatrick #username
-linkedin: ahfitzpatrick #username
-github: ahfitzpa #username
+twitter: @AmyHFitzpatrick
+linkedin: ahfitzpatrick
+github: ahfitzpa
 ---
