@@ -15,7 +15,7 @@ description: "Amy has been awarded a fellowship at University College Dublin to 
 Currently, she is working on disentangling direct RNA ONT sequencing data, from parameter optimisation to assessing method consistency. Outside of the lab, she is an avid reader, yogi and Eurovision fanatic."
 #OPTIONAL
 pronouns: she/her/hers
-twitter: @AmyHFitzpatrick
+twitter: AmyHFitzpatrick
 linkedin: ahfitzpatrick
 github: ahfitzpa
 ---
