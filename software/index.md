@@ -9,12 +9,10 @@ group: software
 <h2><code style="color : orangered"><b>This page is under construction</b></code></h2>
 
 
-<br />
-<br />
+<br>
 
-###$ Welcome to the ROCINANTE (Really Original Collection of Interesting NANopore Tools for research Endeavours):
+#### Welcome to the ROCINANTE (Really Original Collection of Interesting NANopore Tools for research Endeavours):
 
-<br />
 <br>
 
 #### [Detection of RNA modifications mediated by error rates (DRUMMER)](https://github.com/DepledgeLab/DRUMMER)
@@ -23,7 +21,7 @@ DRUMMER is designed to identify RNA modifications at nucleotide-level resolution
 
 <img class="img-fluid" src="/static/img/drummer.jpg" alt="overview of DRUMMER">
 
-<br />
+<br>
 
 
 #### [Nanopore guided annotation of transcriptome architectures (NAGATA)](https://github.com/DepledgeLab/NAGATA)
