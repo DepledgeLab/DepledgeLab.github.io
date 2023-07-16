@@ -20,7 +20,7 @@ group: research
 
 We have previously shown that VZV transcription in latently infected human sensory ganglia is generally restricted to the [VZV latency transcript (VLT)](https://www.nature.com/articles/s41467-018-03569-2). The latent isoform of VLT comprises five exons and putatively encodes a protein (pVLT) although it is now known whether this is translated in latent infections. In iPSC-derived sensory neuronal models of VZV latency, we have since demonstrated that reactivation requires an alteration to 3'end processing in the VLT locus that results in alternative splicing and the addition of a sixth exon that encodes the VZV immediate-early transactivator ORF63. This novel transcript, termed [VLT63](https://www.nature.com/articles/s41467-020-20031-4), is required for transactivation of the viral genome during reactivation from latency. Our efforts are now focused on identifying and understanding the molecular mechanisms that regulate 3' end processing in the VLT locus.
 
-<img class="img-fluid" src="/static/img/latreacmodel.jpg" alt="schematic overview of VZV reactivation">
+<img class="img-fluid" src="/static/img/latreacmodel.jpg" alt="overview of nanopore direct RNA sequencing">
 
 <br />
 
