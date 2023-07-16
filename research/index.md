@@ -15,6 +15,7 @@ group: research
 ### Research in the Depledge lab focuses on several broad themes:
 
 <br />
+<br />
 
 #### (1) Regulation of the varicella zoster virus (VZV) latent-lytic switch in sensory neurons
 
@@ -27,7 +28,7 @@ We have previously shown that VZV transcription in latently infected human senso
 
 #### (2) Epitranscriptomic regulation of herpesvirus infections 
 
-
+<br />
 
 #### (3) A systems approach to interrogating herpesvirus biology, one RNA at a time
 
