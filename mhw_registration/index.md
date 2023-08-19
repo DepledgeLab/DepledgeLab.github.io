@@ -8,6 +8,10 @@ group: mhw_registration
 
 <br /> 
 
+<h3><code style="color : orangered"><b>ABSTRACT DEADLINE EXTENDED TO 25TH AUGUST 2023</b></code></h3>
+
+<br /> 
+
 To register, please send an email to depledge.daniel [at] mh-hannover.de and/or viejo-borbolla.abel [at] mh-hannover.de with your name, position (PhD student, postdoc, PI, other (please specify)), work address, and dietary requirements (e.g., vegetarian). Please, include “Registration for Mini-Herpesvirus Workshop” in the subject of the email.** 
 
 <br />
@@ -26,9 +30,9 @@ A registration fee of 30 € (includes lunch, dinner, non-alcoholic drinks, coff
 
 <br />
 
-<h4><code style="color : orangered"><b>Deadline for abstract submission: 18th August 2023</b></code></h4>
+<h4><code style="color : orangered"><b>Extended deadline for abstract submission: 25th August 2023</b></code></h4>
 
-<h4><code style="color : orangered"><b>Deadline for registration & payment: 1st September 2023</b></code></h4>
+<h4><code style="color : orangered"><b>Final deadline for registration & payment: 1st September 2023</b></code></h4>
 
 <br />
 
