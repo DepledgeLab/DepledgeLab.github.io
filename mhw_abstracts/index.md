@@ -8,7 +8,7 @@ group: mhw_abstracts
 
 <br />
 
-<h3><code style="color : orangered"><b>Abstract submission is now open!!!</b></code></h3>
+<h3><code style="color : orangered"><b>Abstract submission will remain open until 25th August!!!</b></code></h3>
 
 <br />
 
@@ -20,7 +20,7 @@ Please include the title, all authors and affiliations, and an abstract text of 
 
 <br />
 
-<h5><code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 18th August, 2023</b></code></h5>
+<h5><code style="color : orangered"><b>IMPORTANT: Abstracts will only be considered if the author has registered (and paid) by 25th August, 2023</b></code></h5>
 
 
 
