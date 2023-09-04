@@ -1,5 +1,5 @@
 ---
-title: Registration
+title: Registration & Abstracts
 layout: mhw_programme
 group: mhw_registration
 ---
@@ -8,7 +8,7 @@ group: mhw_registration
 
 <br /> 
 
-<h3><code style="color : orangered"><b>REGISTRATION FOR THE MINI HERPESVIRUS WORKSHOP 2023 IS NOW CLOSED</b></code></h3>
+<h3><code style="color : orangered"><b>REGISTRATION & ABSTRACT SUBMISSION FOR THE MINI HERPESVIRUS WORKSHOP 2023 IS NOW CLOSED</b></code></h3>
 
 <br /> 
 
