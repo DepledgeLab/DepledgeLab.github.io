@@ -17,8 +17,10 @@ Abstracts notifications for oral presentations will be sent out on September 4th
 
 Abstract notification for poster presentations will be sent out on September 5th. 
 
-{% include abstract.html %}
 
+<!---
+{% include abstract.html %}
+--->
 
 
 
