@@ -12,7 +12,7 @@ group: mhw_programme
 
 <br />
 
-This informal meeting provides an opportunity for young herpesvirus researchers to present their data to a knowledgeable audience, meet colleagues, and initiate fruitful collaborations. We will enjoy short oral presentations given by graduate students and postdocs, which will be selected from submitted abstracts.
+This informal meeting provides an opportunity for young herpesvirus researchers to present their data to a knowledgeable audience, meet colleagues, and initiate fruitful collaborations. We will enjoy short oral presentations given by graduate students, postdocs, and junior PIs, which will be selected from submitted abstracts.
 
 <br />
 
@@ -37,17 +37,27 @@ This informal meeting provides an opportunity for young herpesvirus researchers 
 
 <br />
 
-0900-1000: Arrival at MHH J6 building and coffee
+0900-0945: Arrival at MHH J6 building and coffee
 
-1000-1200: Talks
+0945-1000: Welcome address
 
-1200-1300: Lunch
+1000-1130: Session #1 Virus-Host Interactions
 
-1300-1500: Talks
+1130-1200: Session #2 Flash talks
 
-1500-1530: Coffee
+1200-1315: Lunch
 
-1530-1800: Talks
+1315-1350: Plenary #1 - Dr. Hannah Burgess
+
+1400-1515: Session #2 Gene Expression & Replication
+
+1515-1530: Coffee break
+
+1530-1610: Plenary #2 - Dr. Jia Zhu
+
+1610-1730: Session #3 Latency & Pathogenesis
+
+1730-1800: Final remarks, discussion, and prizes
 
 1800-late: Social event at Twincore (10 mins walk from MHH J6 building)
 
