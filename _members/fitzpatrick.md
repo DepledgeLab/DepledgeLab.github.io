@@ -3,7 +3,7 @@
 name: Amy Heather Fitzpatrick, Ph.D.
 timeline_name: #If you would like your name to appear differently on the Lab timeline, fill out this line.
 startdate: [2023-06-27] #Enter your start date
-enddate: []
+enddate: [2023-08-31]
 image: /static/img/members/fitzpatrick_fin.jpg
 altimage: /static/img/members/ireland_flag.jpg
 position: Visiting Researcher
