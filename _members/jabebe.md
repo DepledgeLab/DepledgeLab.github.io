@@ -5,7 +5,7 @@ startdate: [2020-03-01, 2023-05-11]
 enddate: [2023-05-12, 2023-10-31]
 image: /static/img/members/abebe_jonathan_fin.jpg
 altimage: /static/img/members/usa_flag.jpg
-position: Graduate Student, Postdoctoral Scholar
+position: "Graduate Student, Postdoctoral Scholar"
 timeline_positions: ["Graduate Student (2020-2023), Postdoctoral Scholar (2023-2023)"]
 subsequent: #Leave this blank until you leave the lab
 email: Jonathan.Abebe [at] nyulangone.org
