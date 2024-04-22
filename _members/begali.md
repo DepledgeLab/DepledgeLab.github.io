@@ -11,6 +11,6 @@ email: begali.hanan (at) mh-hannover.de
 orcid: 0000-0001-9264-787X 
 scholar: GdEyYQIAAAAJ&hl
 description: "I have worked in biomedical data science, such as bioinformatics analysis, biomedical knowledge graph. Previously, I have also worked as a science teacher's assistant in Yemen as well as on human clinical wet lab analysis including bacterial culture and serology, biochemical assays. I am currently involved in the RESIST Biomedical Data Analysis Group (BDAG), supervised by Prof. Depledge, Prof. Lauber and Prof. Galardini, where my tasks include analyzing data sets such as mass spectrometry, developing and maintaining bioinformatics workflows, and supporting introductory bioinformatics courses for non-computer scientists. Outside the lab, I write arabic poetry and prose and enjoy different activities with my friends."
-website:https://www.resist-cluster.de/en/help-with-the-analysis-of-large-data-sets/   
-github:https://github.com/HBegali #username
+website: https://www.resist-cluster.de/en/help-with-the-analysis-of-large-data-sets/   
+github: https://github.com/HBegali #username
 ---
