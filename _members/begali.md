@@ -4,8 +4,8 @@ timeline_name: Hanan
 startdate: [2023-10-01] 
 enddate: #[YYYY-MM-DD] Leave this blank until you leave the lab
 image: /static/img/members/Begali_Hanan_fin.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK 
-#altimage: /static/img/members/LastName_pb.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK
-position:Post-doc
+altimage: /static/img/members/Begali_Hanan_fin.jpg #365 x 365 pixels, 72 dpi		### LEAVE THIS BLANK
+position: Postdoctoral Scholar
 subsequent: #Leave this blank until you leave the lab				### LEAVE THIS BLANK
 email: begali.hanan (at) mh-hannover.de
 orcid: 0000-0001-9264-787X 
