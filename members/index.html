@@ -168,13 +168,13 @@ The Depledge lab welcomes people of any race, ethnicity, religion, national orig
 			{% assign color = "red" %}
 		{% elsif position contains "postdoctoral" %}
 			{% assign color = "darkorange" %}
-		{% elsif position contains "graduate student" %}
+		{% elsif position contains "graduate" %}
 			{% assign color = "gold" %}
 		{% elsif position contains "staff scientist" or position contains "programmer" or position contains "manager" %}
 			{% assign color = "green" %}
-		{% elsif position contains "Masters" or position contains "technician" or position contains "propel"%}
+		{% elsif position contains "Masters" or position contains "propel"%}
 			{% assign color = "turquoise" %}
-		{% elsif position contains "srtp" or position contains "intern" or position contains "summer" %}
+		{% elsif position contains "srtp" or position contains "technician" or position contains "summer" %}
             {% unless position contains "affiliate" %}
                 {% assign color = "blue" %}
             {% endunless %}
